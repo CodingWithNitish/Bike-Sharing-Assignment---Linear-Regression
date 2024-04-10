@@ -7,9 +7,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 
 ## General Information
@@ -28,19 +27,5 @@ They have planned this to prepare themselves to cater to the people's needs once
 - During the Winter season the demand rises, hence it should be well prepared to meet the high demand
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Contact
 Created by [@CodingWithNitish] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
